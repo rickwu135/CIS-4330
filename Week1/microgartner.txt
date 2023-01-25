@@ -1,0 +1,18 @@
+From what Gartner has said about microservices it has many positives to implement it. The first reason Gartner talks about
+is the increased scalabity, this allows for microservices to be independently scaled which allows for more efficient use of resources
+and better handling of traffic. It also talked about how flexible it is since it can also enable continous delivery of new features
+and capabilities to the program. It also has improved resilience where if one part of the microservice fails or many parts fail,
+the microservice can still continue to function. This also leads to the added security of the microservice model as different parts
+can be isolated from each other so it can secure individual parts easier as well as reducing risks in general. 
+
+However, microservices also come with some negatives. Since, the program now has more moving parts to it due to it not being a monolithic
+design, microservices have an increased complexity. It would also have much more managing than a monolithic design due to 
+dealing with data management, a product mindset and more good application infrastructure. Tying into the increased complexity, it would also demand a higher cost because managing
+a microservice architecture requires more resources and specialized skills. The teams working inside the microservice architecture
+also must have strong agile and DevOps competency as well as application leaders have to be willing to facilitate and manage all the
+moving parts.
+
+Overall, I think that like Gartner said, MSA may provide better agility and scalabity however, it requires advanced archetictural skills
+and the market is still immature so it is best to hold off on this investment as it would be too costly and disruptive. I think it is best
+to currently hold off on implementing.
+
